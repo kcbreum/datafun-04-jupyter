@@ -15,7 +15,7 @@ py -m pip install -r requirements.txt
 
 ```
 
-## How to Installa nd Run the Project
+## How to Install and Run the Project
 In the project folder, install the following packages:
 ```shell
 py -m pip install jupyterlab
