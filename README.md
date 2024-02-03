@@ -1,7 +1,8 @@
 # datafun-04-jupyter
 
 Professional analytics project using Git, Python, venv, pip, Markdown and VS Code to demonstrate the creation of an initial data story in Jupyter Notebook. This project utilizes a virtual environment with popular libraries for data analytics, including pandas, matplotlib, and seaborn.
-Commands were used on a Windows machine running PowerShell.
+C
+ommands were used on a Windows machine running PowerShell.
 
 ## Create Project Virtual Environment
 
